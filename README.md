@@ -1,5 +1,7 @@
 # 📚 Telegram Anki Bot
 
+![Демонстрация работы бота](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVydW83b2tnbGNjdjZyMGtpZnVqNnozczNhMWNyb21iNGIydzQ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7tTSaEjyhB2TxYmKXs/giphy.gif)
+
 **Telegram Anki Bot** — это телеграм-бот, разработанный на Python с использованием библиотеки **aiogram**, который позволяет создавать и управлять карточками в стиле Anki для эффективного запоминания информации.
 
 ---
@@ -12,9 +14,6 @@
 - 📆 Частота повторения от выбора сложности
 
 ---
-
-![Демонстрация работы бота](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVydW83b2tnbGNjdjZyMGtpZnVqNnozczNhMWNyb21iNGIydzQ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7tTSaEjyhB2TxYmKXs/giphy.gif)
-
 
 ## 🛠 Установка
 
