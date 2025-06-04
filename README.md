@@ -13,7 +13,7 @@
 
 ---
 
-![Демонстрация работы бота]([assets/demo.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVydW83b2tnbGNjdjZyMGtpZnVqNnozczNhMWNyb21iNGIydzQ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7tTSaEjyhB2TxYmKXs/giphy.gif))
+![Пример]([https://i.imgur.com/yourimage.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVydW83b2tnbGNjdjZyMGtpZnVqNnozczNhMWNyb21iNGIydzQ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7tTSaEjyhB2TxYmKXs/giphy.gif))
 
 ## 🛠 Установка
 
