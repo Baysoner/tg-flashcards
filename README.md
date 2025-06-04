@@ -1,4 +1,4 @@
-# 📚 Telegram Anki Bot
+# 📚 Telegram FlashCrads Bot
 
 ![Демонстрация работы бота](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVydW83b2tnbGNjdjZyMGtpZnVqNnozczNhMWNyb21iNGIydzQ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7tTSaEjyhB2TxYmKXs/giphy.gif)
 
@@ -11,7 +11,7 @@
 - ➕ Добавление карточек  
 - 👀 Просмотр карточек  
 - ❌ Удаление карточек  
-- 📆 Поддержка повторений в стиле Anki *(в разработке)*
+- 📆 Частота повторений от выбора резултьтата
 
 ---
 
